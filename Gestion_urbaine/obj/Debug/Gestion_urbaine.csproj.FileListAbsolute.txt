@@ -1,0 +1,12 @@
+C:\Users\Mr Richy\Desktop\Projet\Gestion_urbaine\Gestion_urbaine\bin\Debug\Gestion_urbaine.exe.config
+C:\Users\Mr Richy\Desktop\Projet\Gestion_urbaine\Gestion_urbaine\bin\Debug\Gestion_urbaine.exe
+C:\Users\Mr Richy\Desktop\Projet\Gestion_urbaine\Gestion_urbaine\bin\Debug\Gestion_urbaine.pdb
+C:\Users\Mr Richy\Desktop\Projet\Gestion_urbaine\Gestion_urbaine\obj\Debug\Gestion_urbaine.csprojResolveAssemblyReference.cache
+C:\Users\Mr Richy\Desktop\Projet\Gestion_urbaine\Gestion_urbaine\obj\Debug\Gestion_urbaine.Properties.Resources.resources
+C:\Users\Mr Richy\Desktop\Projet\Gestion_urbaine\Gestion_urbaine\obj\Debug\Gestion_urbaine.csproj.GenerateResource.Cache
+C:\Users\Mr Richy\Desktop\Projet\Gestion_urbaine\Gestion_urbaine\obj\Debug\Gestion_urbaine.exe
+C:\Users\Mr Richy\Desktop\Projet\Gestion_urbaine\Gestion_urbaine\obj\Debug\Gestion_urbaine.pdb
+C:\Users\Mr Richy\Desktop\Projet\Gestion_urbaine\Gestion_urbaine\obj\Debug\Gestion_urbaine.Accueil.resources
+C:\Users\Mr Richy\Desktop\Projet\Gestion_urbaine\Gestion_urbaine\obj\Debug\Gestion_urbaine.Admin_utilisateur.resources
+C:\Users\Mr Richy\Desktop\Projet\Gestion_urbaine\Gestion_urbaine\obj\Debug\Gestion_urbaine.Formulaire_utilisateur.resources
+C:\Users\Mr Richy\Desktop\Projet\Gestion_urbaine\Gestion_urbaine\obj\Debug\Gestion_urbaine.Administrateur.resources
